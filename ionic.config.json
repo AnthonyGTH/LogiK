@@ -1,0 +1,7 @@
+{
+  "name": "Logik",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
